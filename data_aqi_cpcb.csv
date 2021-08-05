@@ -1,0 +1,247 @@
+Country,State,City,Station,PM2.5,PM10,NO2,NH3,SO2,CO,OZONE
+India,Andhra_Pradesh,Amaravati,Secretariat Amaravati - APPCB,55,70,12,3,25,23,25
+India,Andhra_Pradesh,Rajamahendravaram,Anand Kala Kshetram Rajamahendravaram - APPCB,49,82,20,2,5,41,19
+India,Andhra_Pradesh,Tirupati,Tirumala Tirupati - APPCB,,,,,,10,
+India,Andhra_Pradesh,Visakhapatnam,GVM Corporation Visakhapatnam - APPCB,53,86,37,7,18,21,25
+India,Arunachal_Pradesh,Naharlagun,Naharlagun Naharlagun - APSPCB,,,,,,10,39
+India,Assam,Guwahati,Pan Bazaar Guwahati - APCB,58,58,9,1,38,17,43
+India,Assam,Guwahati,Railway Colony Guwahati - APCB,54,60,8,1,32,19,23
+India,Bihar,Gaya,Collectorate Gaya - BSPCB,141,,7,,,87,117
+India,Bihar,Gaya,SFTI Kusdihra Gaya - BSPCB,80,79,6,4,12,41,202
+India,Bihar,Hajipur,Industrial Area Hajipur - BSPCB,86,147,5,1,4,41,34
+India,Bihar,Muzaffarpur,Buddha Colony Muzaffarpur - BSPCB,64,109,,,28,92,38
+India,Bihar,Muzaffarpur,Muzaffarpur Collectorate Muzaffarpur - BSPCB,123,,2,,9,36,18
+India,Bihar,Patna,DRM Office Danapur Patna - BSPCB,105,182,,,12,26,49
+India,Bihar,Patna,Govt. High School Shikarpur Patna - BSPCB,143,125,41,5,16,45,37
+India,Bihar,Patna,IGSC Planetarium Complex Patna - BSPCB,,,,,,,
+India,Bihar,Patna,Muradpur Patna - BSPCB,117,171,45,5,7,34,61
+India,Bihar,Patna,Rajbansi Nagar Patna - BSPCB,,,,,,,
+India,Bihar,Patna,Samanpura Patna - BSPCB,161,149,46,3,10,31,81
+India,Chandigarh,Chandigarh,Sector-25 Chandigarh - CPCC,112,113,34,13,26,15,47
+India,Delhi,Delhi,Alipur Delhi - DPCC,283,334,50,4,40,63,184
+India,Delhi,Delhi,Anand Vihar Delhi - DPCC,364,301,122,13,38,118,50
+India,Delhi,Delhi,Ashok Vihar Delhi - DPCC,269,288,71,8,54,75,168
+India,Delhi,Delhi,Bawana Delhi - DPCC,337,358,20,8,30,48,40
+India,Delhi,Delhi,Chandni Chowk Delhi - IITM,,,,,,68,21
+India,Delhi,Delhi,DTU Delhi - CPCB,296,305,81,18,32,99,65
+India,Delhi,Delhi,Dr. Karni Singh Shooting Range Delhi - DPCC,241,275,67,6,49,55,93
+India,Delhi,Delhi,Dwarka-Sector 8 Delhi - DPCC ,286,329,30,15,16,43,52
+India,Delhi,Delhi,IHBAS Dilshad Garden Delhi - CPCB,257,237,13,5,21,39,60
+India,Delhi,Delhi,ITO Delhi - CPCB,,,,,,104,57
+India,Delhi,Delhi,Jahangirpuri Delhi - DPCC,,,,,,28,141
+India,Delhi,Delhi,Jawaharlal Nehru Stadium Delhi - DPCC,243,252,79,5,36,50,93
+India,Delhi,Delhi,Lodhi Road Delhi - IITM,,,56,11,12,41,13
+India,Delhi,Delhi,Major Dhyan Chand National Stadium Delhi - DPCC,241,242,44,10,11,39,58
+India,Delhi,Delhi,Mandir Marg Delhi - DPCC,,,85,5,16,55,45
+India,Delhi,Delhi,Mundka Delhi - DPCC,310,329,52,5,55,65,99
+India,Delhi,Delhi,NSIT Dwarka Delhi - CPCB,360,333,49,9,28,33,56
+India,Delhi,Delhi,Najafgarh Delhi - DPCC,246,298,18,7,16,42,36
+India,Delhi,Delhi,Narela Delhi - DPCC,311,356,58,8,48,76,150
+India,Delhi,Delhi,Nehru Nagar Delhi - DPCC,267,247,89,12,38,85,58
+India,Delhi,Delhi,Okhla Phase-2 Delhi - DPCC,262,274,83,7,36,52,152
+India,Delhi,Delhi,Patparganj Delhi - DPCC,283,271,45,13,9,57,30
+India,Delhi,Delhi,Punjabi Bagh Delhi - DPCC,298,271,74,6,51,72,212
+India,Delhi,Delhi,Pusa Delhi - DPCC,250,263,80,11,44,45,62
+India,Delhi,Delhi,R K Puram Delhi - DPCC,278,272,70,22,48,79,234
+India,Delhi,Delhi,Rohini Delhi - DPCC,301,324,33,12,22,57,48
+India,Delhi,Delhi,Shadipur Delhi - CPCB,218,325,71,17,27,19,36
+India,Delhi,Delhi,Sirifort Delhi - CPCB,255,245,30,5,12,64,54
+India,Delhi,Delhi,Sonia Vihar Delhi - DPCC,,,,,,84,120
+India,Delhi,Delhi,Sri Aurobindo Marg Delhi - DPCC,242,198,39,7,37,84,246
+India,Delhi,Delhi,Vivek Vihar Delhi - DPCC,,,,,,48,26
+India,Delhi,Delhi,Wazirpur Delhi - DPCC,289,,52,9,17,55,45
+India,Gujarat,Ahmedabad,Maninagar Ahmedabad - GPCB,97,119,53,,42,49,177
+India,Gujarat,Ankleshwar,GIDC Ankleshwar - GPCB,49,93,2,7,33,61,78
+India,Gujarat,Gandhinagar,Sector-10 Gandhinagar - GPCB,47,61,11,5,13,34,35
+India,Gujarat,Nandesari,GIDC Nandesari - Nandesari Ind. Association,112,75,1,,7,45,
+India,Gujarat,Vapi,Phase-1 GIDC Vapi - GPCB,,93,,2,19,8,7
+India,Gujarat,Vatva,Phase-4 GIDC Vatva - GPCB,122,137,38,5,68,64,43
+India,Haryana,Ambala,Patti Mehar Ambala - HSPCB,,,,,,33,44
+India,Haryana,Bahadurgarh,Arya Nagar Bahadurgarh - HSPCB,281,235,15,12,50,51,70
+India,Haryana,Ballabgarh,Nathu Colony Ballabgarh - HSPCB,,,,,,,
+India,Haryana,Bhiwani,H.B. Colony Bhiwani - HSPCB,46,232,3,7,,72,127
+India,Haryana,Charkhi Dadri,Mini Secretariat Charkhi Dadri - HSPCB,,,,,,48,32
+India,Haryana,Dharuhera,Municipal Corporation Office Dharuhera -  HSPCB,,,,,,92,64
+India,Haryana,Faridabad,Sector 11 Faridabad - HSPCB,334,240,31,6,9,76,54
+India,Haryana,Faridabad,Sector- 16A Faridabad - HSPCB,233,,117,,22,78,264
+India,Haryana,Fatehabad,Huda Sector Fatehabad - HSPCB,,,,,,17,22
+India,Haryana,Gurugram,Sector-51 Gurugram - HSPCB,,,,,,41,54
+India,Haryana,Gurugram,Teri Gram Gurugram - HSPCB,246,198,14,10,3,65,29
+India,Haryana,Gurugram,Vikas Sadan Gurugram - HSPCB,,,,,,8,118
+India,Haryana,Hisar,Urban Estate-II Hisar - HSPCB,255,226,35,5,18,23,23
+India,Haryana,Jind,Police Lines Jind - HSPCB,,,,,,61,90
+India,Haryana,Kaithal,Rishi Nagar Kaithal - HSPCB,,,,,,11,16
+India,Haryana,Karnal,Sector-12 Karnal - HSPCB,123,103,1,7,31,34,17
+India,Haryana,Kurukshetra,Sector-7 Kurukshetra - HSPCB,,,,,,25,60
+India,Haryana,Mandikhera,General Hospital Mandikhera - HSPCB,189,134,22,9,13,45,3
+India,Haryana,Palwal,Shyam Nagar Palwal - HSPCB,,,,,,,
+India,Haryana,Panchkula,Sector-6 Panchkula - HSPCB ,62,,39,,11,,25
+India,Haryana,Panipat,Sector-18 Panipat - HSPCB,315,333,15,2,,46,39
+India,Haryana,Rohtak,MD University Rohtak - HSPCB,181,,95,,7,17,69
+India,Haryana,Sirsa,F-Block Sirsa - HSPCB,181,168,5,4,21,26,19
+India,Haryana,Sonipat,Murthal Sonipat - HSPCB,,,,,,,
+India,Haryana,Yamunanagar,Gobind Pura Yamuna Nagar - HSPCB,,,,,,43,69
+India,JammuandKashmir,Srinagar,Rajbagh Srinagar - JKSPCB,54,65,15,10,1,5,7
+India,Karnataka,Bagalkot,Vidayagiri Bagalkot - KSPCB,41,48,8,,9,45,30
+India,Karnataka,Bengaluru,BTM Layout Bengaluru - CPCB,25,92,6,2,4,30,31
+India,Karnataka,Bengaluru,BWSSB Kadabesanahalli Bengaluru - CPCB,95,118,,,3,49,44
+India,Karnataka,Bengaluru,Bapuji Nagar Bengaluru - KSPCB,78,79,25,8,10,39,23
+India,Karnataka,Bengaluru,Hebbal Bengaluru - KSPCB,80,95,20,3,6,13,34
+India,Karnataka,Bengaluru,Hombegowda Nagar Bengaluru - KSPCB,48,82,16,3,9,19,44
+India,Karnataka,Bengaluru,Jayanagar 5th Block Bengaluru - KSPCB,90,85,31,3,6,4,56
+India,Karnataka,Bengaluru,Peenya Bengaluru - CPCB,85,105,25,1,9,32,27
+India,Karnataka,Bengaluru,Sanegurava Halli Bengaluru - KSPCB,,48,16,,5,37,
+India,Karnataka,Bengaluru,Silk Board Bengaluru - KSPCB,,,,,,34,37
+India,Karnataka,Chamarajanagar,Urban Chamarajanagar - KSPCB,78,47,16,7,4,41,24
+India,Karnataka,Chikkaballapur,Chikkaballapur Rural Chikkaballapur - KSPCB,116,106,39,1,5,35,47
+India,Karnataka,Chikkamagaluru,Kalyana Nagara Chikkamagaluru - KSPCB,39,61,17,5,4,23,50
+India,Karnataka,Gadag,Panchal Nagar Gadag - KSPCB,34,23,17,5,69,16,34
+India,Karnataka,Hassan,B.Katihalli Hassan - KSPCB,70,102,29,2,19,17,38
+India,Karnataka,Hubballi,Deshpande Nagar Hubballi - KSPCB,51,64,15,4,2,11,54
+India,Karnataka,Kolar,Tamaka Ind. Area Kolar - KSPCB,,43,15,,54,71,2
+India,Karnataka,Koppal,Diwator Nagar Koppal - KSPCB,15,36,18,6,9,57,45
+India,Karnataka,Medikeri,Stuart Hill Madikeri - KSPCB,39,49,4,,25,27,42
+India,Karnataka,Mysuru,Hebbal 1st Stage Mysuru - KSPCB,,,,,,,
+India,Karnataka,Raichur,Haji Colony Raichur - KSPCB,,,,,,,
+India,Karnataka,Ramanagara,Vijay Nagar Ramanagara - KSPCB,,,,,,20,55
+India,Karnataka,Shivamogga,Vinoba Nagara Shivamogga - KSPCB,35,48,28,10,3,16,23
+India,Karnataka,Udupi,Brahmagiri Udupi - KSPCB,,,,,,67,114
+India,Karnataka,Vijayapura,Ibrahimpur Vijayapura - KSPCB,,,,,,44,22
+India,Karnataka,Yadgir,Collector Office Yadgir - KSPCB,50,64,15,2,13,25,89
+India,Kerala,Eloor,Udyogamandal Eloor - Kerala PCB,33,39,17,2,8,47,45
+India,Kerala,Ernakulam,Kacheripady Ernakulam - Kerala PCB,35,56,4,1,8,40,
+India,Kerala,Kannur,Thavakkara Kannur - Kerala PCB,89,113,19,2,2,33,13
+India,Kerala,Kochi,Vyttila Kochi - Kerala PCB,56,82,5,1,3,43,16
+India,Kerala,Kollam,Polayathode Kollam - Kerala PCB,80,87,24,,2,31,15
+India,Kerala,Kozhikode,Palayam Kozhikode - Kerala PCB,25,54,20,1,4,70,9
+India,Kerala,Thiruvananthapuram,Kariavattom Thiruvananthapuram - Kerala PCB,39,60,19,11,3,34,50
+India,Kerala,Thiruvananthapuram,Plammoodu Thiruvananthapuram - Kerala PCB,27,45,27,2,11,36,23
+India,Kerala,Thrissur,Corporation Ground Thrissur- Kerala PCB,47,53,14,3,66,59,37
+India,Madhya Pradesh,Bhopal,T T Nagar Bhopal - MPPCB,54,97,25,3,27,34,168
+India,Madhya Pradesh,Damoh,Shrivastav Colony Damoh - MPPCB,53,53,18,,,8,
+India,Madhya Pradesh,Dewas,Bhopal Chauraha Dewas - MPPCB,83,128,25,3,21,21,67
+India,Madhya Pradesh,Gwalior,City Center Gwalior - MPPCB,74,138,46,5,25,28,93
+India,Madhya Pradesh,Indore,Chhoti Gwaltoli Indore - MPPCB,77,132,38,5,21,33,48
+India,Madhya Pradesh,Jabalpur,Marhatal Jabalpur - MPPCB,158,189,21,2,25,81,62
+India,Madhya Pradesh,Katni,Gole Bazar Katni - MPPCB,116,178,43,5,28,100,91
+India,Madhya Pradesh,Mandideep,Sector-D Industrial Area Mandideep - MPPCB,57,62,38,3,,27,27
+India,Madhya Pradesh,Pithampur,Sector-2 Industrial Area Pithampur - MPPCB,73,106,15,4,42,39,83
+India,Madhya Pradesh,Ratlam,Shasthri Nagar Ratlam - IPCA Lab,80,129,16,,22,,
+India,Madhya Pradesh,Sagar,Deen Dayal Nagar Sagar - MPPCB,99,,24,,8,34,
+India,Madhya Pradesh,Satna,Bandhavgar Colony Satna - Birla Cement,48,114,,,8,35,
+India,Madhya Pradesh,Singrauli,Vindhyachal STPS Singrauli - MPPCB,,,,,,15,82
+India,Madhya Pradesh,Ujjain,Mahakaleshwar Temple Ujjain - MPPCB,80,116,13,4,11,28,94
+India,Maharashtra,Aurangabad,More Chowk Waluj Aurangabad - MPCB,85,88,57,5,19,58,72
+India,Maharashtra,Chandrapur,Chandrapur Chandrapur - MPCB,76,82,18,2,8,11,6
+India,Maharashtra,Chandrapur,MIDC Khutala Chandrapur - MPCB,142,129,25,3,19,40,57
+India,Maharashtra,Kalyan,Khadakpada Kalyan - MPCB,72,,2,2,,51,13
+India,Maharashtra,Mumbai,Bandra Kurla Complex Mumbai - IITM,18,,6,1,13,23,23
+India,Maharashtra,Mumbai,Bandra Mumbai - MPCB,45,87,12,,41,70,45
+India,Maharashtra,Mumbai,Borivali East Mumbai - IITM,39,96,17,2,,6,18
+India,Maharashtra,Mumbai,Borivali East Mumbai - MPCB,33,82,3,2,65,16,7
+India,Maharashtra,Mumbai,Chakala-Andheri East Mumbai - IITM,121,125,28,8,18,,18
+India,Maharashtra,Mumbai,Chhatrapati Shivaji Intl. Airport (T2) Mumbai - MPCB,49,46,22,1,1,15,19
+India,Maharashtra,Mumbai,Deonar Mumbai - IITM,93,87,13,14,31,80,30
+India,Maharashtra,Mumbai,Kandivali East Mumbai - MPCB,40,95,15,2,48,15,9
+India,Maharashtra,Mumbai,Khindipada-Bhandup West Mumbai - IITM,65,73,16,2,,48,22
+India,Maharashtra,Mumbai,Kurla Mumbai - MPCB,38,123,39,5,15,18,10
+India,Maharashtra,Mumbai,Malad West Mumbai - IITM,57,67,14,1,4,40,10
+India,Maharashtra,Mumbai,Mazgaon Mumbai - IITM,66,91,28,13,2,34,14
+India,Maharashtra,Mumbai,Mulund West Mumbai - MPCB,,,,,,26,30
+India,Maharashtra,Mumbai,Navy Nagar-Colaba Mumbai - IITM,186,105,1,2,,87,19
+India,Maharashtra,Mumbai,Powai Mumbai - MPCB,42,91,11,2,3,16,39
+India,Maharashtra,Mumbai,Siddharth Nagar-Worli Mumbai - IITM,42,39,18,1,,11,48
+India,Maharashtra,Mumbai,Sion Mumbai - MPCB,28,,29,6,,25,24
+India,Maharashtra,Mumbai,Vasai West Mumbai - MPCB,38,,36,,33,43,
+India,Maharashtra,Mumbai,Vile Parle West Mumbai - MPCB,47,97,11,2,5,9,5
+India,Maharashtra,Mumbai,Worli Mumbai - MPCB,41,72,4,,6,5,1
+India,Maharashtra,Nagpur,Opp GPO Civil Lines Nagpur - MPCB,84,,31,2,2,22,15
+India,Maharashtra,Navi Mumbai,Mahape Navi Mumbai - MPCB,,,,,,34,17
+India,Maharashtra,Navi Mumbai,Nerul Navi Mumbai - MPCB,,121,11,2,6,41,
+India,Maharashtra,Navi Mumbai,Sector-19A Nerul Navi Mumbai - IITM,43,112,17,3,4,40,15
+India,Maharashtra,Pune,Alandi Pune - IITM,,,,,,34,4
+India,Maharashtra,Pune,Bhosari Pune - IITM,,,,,,,16
+India,Maharashtra,Pune,Hadapsar Pune - IITM,81,93,,,,56,23
+India,Maharashtra,Pune,MIT-Kothrud Pune - IITM,34,28,54,,,53,22
+India,Maharashtra,Pune,Mhada Colony Pune - IITM,84,82,52,,,70,33
+India,Maharashtra,Pune,Revenue Colony-Shivajinagar Pune - IITM,112,91,27,,6,58,18
+India,Maharashtra,Pune,Transport Nagar-Nigdi Pune - IITM,56,55,,,,77,11
+India,Maharashtra,Thane,Pimpleshwar Mandir Thane - MPCB,,,,,,35,204
+India,Mizoram,Aizawl,Sikulpuikawn Aizawl - Mizoram PCB,36,63,3,1,4,14,38
+India,Nagaland,Kohima,PWD Juction Kohima - NPCB,,121,3,1,28,13,39
+India,Odisha,Brajrajnagar,GM Office Brajrajnagar - OSPCB,70,104,33,,22,70,32
+India,Odisha,Talcher,Talcher CoalfieldsTalcher - OSPCB,39,55,34,5,44,66,28
+India,Puducherry,Puducherry,Jawahar Nagar Puducherry - PPCC,32,49,8,2,10,20,38
+India,Punjab,Amritsar,Golden Temple Amritsar - PPCB,118,91,23,7,21,31,42
+India,Punjab,Bathinda,Hardev Nagar Bathinda - PPCB,,,,,,17,
+India,Punjab,Jalandhar,Civil Line Jalandhar - PPCB,99,113,28,2,12,38,19
+India,Punjab,Khanna,Kalal Majra Khanna - PPCB,103,107,17,4,22,36,18
+India,Punjab,Ludhiana,Punjab Agricultural University Ludhiana - PPCB,144,140,69,5,21,42,27
+India,Punjab,Mandi Gobindgarh,RIMT University Mandi Gobindgarh - PPCB,228,183,33,4,26,48,16
+India,Punjab,Patiala,Model Town Patiala - PPCB,109,142,30,11,9,38,36
+India,Punjab,Rupnagar,Ratanpura Rupnagar - Ambuja Cements,,122,,,13,30,
+India,Rajasthan,Ajmer,Civil Lines  Ajmer - RSPCB,69,97,27,5,12,14,75
+India,Rajasthan,Alwar,Moti Doongri Alwar - RSPCB,84,96,23,3,14,46,30
+India,Rajasthan,Bhiwadi,RIICO Ind. Area III Bhiwadi - RSPCB,307,281,67,9,53,25,47
+India,Rajasthan,Jaipur,Adarsh Nagar Jaipur - RSPCB,,,,,,42,80
+India,Rajasthan,Jaipur,Police Commissionerate Jaipur - RSPCB,210,139,82,7,23,62,44
+India,Rajasthan,Jaipur,Shastri Nagar Jaipur - RSPCB,156,143,17,6,23,35,67
+India,Rajasthan,Jodhpur,Collectorate Jodhpur - RSPCB,163,142,20,,9,42,47
+India,Rajasthan,Kota,Shrinath Puram Kota - RSPCB,108,109,46,13,15,24,59
+India,Rajasthan,Pali,Indira Colony Vistar Pali - RSPCB,137,127,172,25,22,27,47
+India,Rajasthan,Udaipur,Ashok Nagar Udaipur - RSPCB,124,136,24,6,12,16,38
+India,TamilNadu,Chennai,Alandur Bus Depot Chennai - CPCB,57,68,7,3,47,35,10
+India,TamilNadu,Chennai,Arumbakkam Chennai - TNPCB,45,61,,,24,,
+India,TamilNadu,Chennai,Kodungaiyur Chennai - TNPCB,39,55,8,2,15,18,31
+India,TamilNadu,Chennai,Manali Village Chennai - TNPCB,46,53,21,3,5,20,99
+India,TamilNadu,Chennai,Manali Chennai - CPCB,41,52,16,15,12,78,36
+India,TamilNadu,Chennai,Perungudi Chennai - TNPCB,28,53,3,2,5,18,28
+India,TamilNadu,Chennai,Royapuram Chennai - TNPCB,,,,,,,
+India,TamilNadu,Chennai,Velachery Res. Area Chennai - CPCB,10,56,5,1,8,31,19
+India,TamilNadu,Gummidipoondi,Anthoni Pillai Nagar Gummidipoondi - TNPCB,123,131,14,5,17,,
+India,Telangana,Hyderabad,Bollaram Industrial Area Hyderabad - TSPCB,79,113,40,6,20,24,1
+India,Telangana,Hyderabad,Central University Hyderabad - TSPCB,58,89,44,3,4,16,71
+India,Telangana,Hyderabad,ICRISAT Patancheru Hyderabad - TSPCB,57,80,11,2,10,16,10
+India,Telangana,Hyderabad,IDA Pashamylaram Hyderabad - TSPCB,67,93,76,,2,24,15
+India,Telangana,Hyderabad,Sanathnagar Hyderabad - TSPCB,79,,49,,13,26,39
+India,Telangana,Hyderabad,Zoo Park Hyderabad - TSPCB,83,112,58,3,4,39,17
+India,Tripura,Agartala,Kunjaban Agartala - Tripura SPCB,82,99,10,1,23,24,60
+India,Uttar_Pradesh,Agra,Sanjay Palace Agra - UPPCB,208,,40,,,,70
+India,Uttar_Pradesh,Baghpat,New Collectorate Baghpat - UPPCB,,,,,,,52
+India,Uttar_Pradesh,Bulandshahr,Yamunapuram Bulandshahr - UPPCB,249,287,63,11,41,63,229
+India,Uttar_Pradesh,Ghaziabad,Indirapuram Ghaziabad - UPPCB,290,346,52,11,47,74,218
+India,Uttar_Pradesh,Ghaziabad,Loni Ghaziabad - UPPCB,373,388,47,8,32,,178
+India,Uttar_Pradesh,Ghaziabad,Sanjay Nagar Ghaziabad - UPPCB,292,368,94,12,42,51,198
+India,Uttar_Pradesh,Ghaziabad,Vasundhara Ghaziabad - UPPCB,309,370,80,9,57,99,184
+India,Uttar_Pradesh,Greater Noida,Knowledge Park - III Greater Noida - UPPCB,250,280,,,,,173
+India,Uttar_Pradesh,Greater Noida,Knowledge Park - V Greater Noida - UPPCB,267,353,,,44,87,56
+India,Uttar_Pradesh,Hapur,Anand Vihar Hapur - UPPCB,73,165,,,14,,162
+India,Uttar_Pradesh,Kanpur,IITK Kanpur - IITK,90,,,,,23,24
+India,Uttar_Pradesh,Kanpur,Nehru Nagar Kanpur - UPPCB,231,,138,,32,,63
+India,Uttar_Pradesh,Lucknow,Central School Lucknow - CPCB,221,169,91,5,9,46,5
+India,Uttar_Pradesh,Lucknow,Gomti Nagar Lucknow - UPPCB,171,,37,,20,,74
+India,Uttar_Pradesh,Lucknow,Lalbagh Lucknow - CPCB,255,172,58,11,7,73,55
+India,Uttar_Pradesh,Lucknow,Talkatora District Industries Center Lucknow - CPCB,339,249,95,29,16,47,38
+India,Uttar_Pradesh,Meerut,Ganga Nagar Meerut - UPPCB,192,280,40,14,26,,14
+India,Uttar_Pradesh,Meerut,Jai Bhim Nagar Meerut - UPPCB,230,283,14,1,47,,257
+India,Uttar_Pradesh,Meerut,Pallavpuram Phase 2 Meerut - UPPCB,,338,,,38,87,
+India,Uttar_Pradesh,Moradabad,Lajpat Nagar Moradabad - UPPCB,,,,,,,
+India,Uttar_Pradesh,Muzaffarnagar,New Mandi Muzaffarnagar - UPPCB,231,259,33,8,52,44,
+India,Uttar_Pradesh,Noida,Sector - 125 Noida - UPPCB,288,330,15,,10,,7
+India,Uttar_Pradesh,Noida,Sector-1 Noida - UPPCB,253,297,91,9,27,77,60
+India,Uttar_Pradesh,Noida,Sector-116 Noida - UPPCB,267,337,85,10,38,87,
+India,Uttar_Pradesh,Varanasi,Ardhali Bazar Varanasi - UPPCB,229,196,99,,41,,228
+India,West_Bengal,Asansol,Asansol Court Area Asansol - WBPCB,69,93,28,8,11,24,34
+India,West_Bengal,Durgapur,Sidhu Kanhu Indoor Stadium Durgapur - WBPCB,98,142,36,4,22,,
+India,West_Bengal,Haldia,Haldia Haldia - WBPCB,30,80,14,4,14,24,18
+India,West_Bengal,Howrah,Belur Math Howrah - WBPCB,61,83,29,4,19,37,35
+India,West_Bengal,Howrah,Ghusuri Howrah - WBPCB,63,87,24,5,11,22,27
+India,West_Bengal,Howrah,Padmapukur Howrah - WBPCB,56,77,8,,24,24,35
+India,West_Bengal,Kolkata,Ballygunge Kolkata - WBPCB,,,,,,18,47
+India,West_Bengal,Kolkata,Bidhannagar Kolkata - WBPCB,56,63,19,5,11,14,40
+India,West_Bengal,Kolkata,Fort William Kolkata - WBPCB,49,65,11,2,14,14,43
+India,West_Bengal,Kolkata,Jadavpur Kolkata - WBPCB,44,70,16,2,13,13,25
+India,West_Bengal,Kolkata,Rabindra Bharati University Kolkata - WBPCB,90,109,19,4,10,113,41
+India,West_Bengal,Kolkata,Rabindra Sarobar Kolkata - WBPCB,31,59,,,4,28,39
+India,West_Bengal,Kolkata,Victoria Kolkata - WBPCB,45,58,6,5,16,17,71
+India,West_Bengal,Siliguri,Ward-32 Bapupara Siliguri - WBPCB,85,92,35,7,6,26,75
